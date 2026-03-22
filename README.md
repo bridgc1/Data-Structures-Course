@@ -1,3 +1,3 @@
-IDE used: Visual Studio Code (VSCode)
-Programming Languages: C, C++ (Object-Oriented Design)
-Data Structures Implemented: linked lists, stacks, queues, binary search trees
+- IDE used: Visual Studio Code (VSCode)
+- Programming Languages: C, C++ (Object-Oriented Design)
+- Data Structures Implemented: linked lists, stacks, queues, binary search trees
